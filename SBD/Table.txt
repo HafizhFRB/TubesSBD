@@ -1,0 +1,3 @@
+customer nik nama_customer alamat#
+order order_id nik barang_id date#
+barang barang_id nama_barang#
